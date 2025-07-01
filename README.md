@@ -1,11 +1,11 @@
 # sparksupport
 This repo is for spark support machine test
 
-# 🔧 Compiling LAMP Stack from Source & WordPress Deployment (Machine Test Challenge)
+# Compiling LAMP Stack from Source & WordPress Deployment (Machine Test Challenge)
 
 This repository documents my step-by-step process of manually compiling and configuring a LAMP stack (Linux, Apache, MySQL, PHP) **without using the OS package manager**, as part of a surprise machine test during a technical interview. The final goal was to host a **WordPress website** on a custom domain (`sahil07.shop`) over port 80.
 
-## 🚀 Objective
+##  Objective
 
 ✅ Compile **Apache 2.4.64** from source  
 ✅ Compile **PHP 8.3.7** from source  
@@ -16,7 +16,7 @@ This repository documents my step-by-step process of manually compiling and conf
 
 ---
 
-## 📚 Table of Contents
+## Table of Contents
 - [Prerequisites](#prerequisites)
 - [Step 1: Install Dependencies](#step-1-install-required-dependencies)
 - [Step 2: Compile Apache](#step-2-compile-apache-httpd-from-source)
@@ -30,7 +30,7 @@ This repository documents my step-by-step process of manually compiling and conf
 
 ---
 
-## 🖥️ System Requirements
+## System Requirements
 
 - Ubuntu 20.04 / 22.04 Virtual Machine
 - Root or sudo privileges
@@ -38,7 +38,7 @@ This repository documents my step-by-step process of manually compiling and conf
 - Approx. 2GB RAM or more
 
 ---
-## ⚙️ Setup Process
+##  Setup Process
 
 ## Step 1: Install Required Dependencies
 Start by updating the package list and installing essential build tools and libraries needed for compilation.

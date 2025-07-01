@@ -16,18 +16,6 @@ This repository documents my step-by-step process of manually compiling and conf
 
 ---
 
-## Table of Contents
-- [Prerequisites](#prerequisites)
-- [Step 1: Install Dependencies](#step-1-install-required-dependencies)
-- [Step 2: Compile Apache](#step-2-compile-apache-httpd-from-source)
-- [Step 3: Start Apache and Test](#step-3-start-apache-and-test)
-- [Step 4: Compile PHP](#step-4-compile-php-from-source)
-- [Step 5: Install MySQL](#step-5-install-mysql-via-binary-tarball)
-- [Step 6: Set Up WordPress](#step-6-download-and-set-up-wordpress)
-- [Step 7: Simulate a Domain](#step-7-simulate-a-domain-eg-nasarulin)
-- [Conclusion](#conclusion)
-- [Notes](#notes)
-
 ---
 
 ## System Requirements

@@ -55,7 +55,7 @@ Apache requires the Apache Portable Runtime (APR) and APR-util. We'll download, 
 cd /usr/local/src
 sudo wget https://downloads.apache.org/httpd/httpd-2.4.63.tar.gz
 sudo tar -xzf httpd-2.4.63.tar.gz
-cd httpd-2.4.64
+cd httpd-2.4.63
 
 # Download and unpack APR and APR-util
 cd srclib
@@ -156,7 +156,7 @@ sudo apt install libaio1 libaio-dev
 sudo bin/mysqld --initialize --user=mysql
 ```
 
-- **Note**: The initialization outputs a temporary root password (e.g., `BuhpigfBI3,9`). Save this!
+- **Note**: The initialization outputs a temporary root password (e.g., `ByiSwdrj=k`). Save this!
 - Start MySQL:
 ```bash
 sudo bin/mysqld_safe --user=mysql &
@@ -199,7 +199,7 @@ Edit `wp-config.php` to update:
 - `DB_USER` to `wpuser`
 - `DB_PASSWORD` to `wp_pass`
 
-## Step 7: Simulate a Domain (e.g., nasarul.in)
+## Step 7: Simulate a Domain (e.g., sahil07.shop)
 Simulate a domain for local testing by editing the hosts file.
 
 ```bash

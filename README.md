@@ -208,7 +208,7 @@ sudo nano /etc/hosts
 
 Add this line:
 ```
-127.0.0.1    nasarul.in
+127.0.0.1    sahil07.shop
 ```
 
 - **Test**: Navigate to `http://sahil07.shop` in your browser to access WordPress and complete the setup via the web interface.
@@ -226,7 +226,7 @@ Live WordPress site available at http://sahil07.shop (expires on 05/07/25)
 
 ## 🙋‍♂️ About Me
 
-I'm **sahil TK**, a passionate DevOps & Cloud Engineer.  
+I'm **Sahil TK**, a passionate DevOps & Cloud Engineer.  
 🔗 [LinkedIn](https://linkedin.com/in/sahil-tk-8733b5282/) | 🌐 [Portfolio](https://github.com/sahil-007/sparksupport-machine-test)
 
 Give this repo a ⭐ if you found it useful!

@@ -3,7 +3,7 @@ This repo is for spark support machine test
 
 # 🔧 Compiling LAMP Stack from Source & WordPress Deployment (Machine Test Challenge)
 
-This repository documents my step-by-step process of manually compiling and configuring a LAMP stack (Linux, Apache, MySQL, PHP) **without using the OS package manager**, as part of a surprise machine test during a technical interview. The final goal was to host a **WordPress website** on a custom domain (`nasarul.in`) over port 80.
+This repository documents my step-by-step process of manually compiling and configuring a LAMP stack (Linux, Apache, MySQL, PHP) **without using the OS package manager**, as part of a surprise machine test during a technical interview. The final goal was to host a **WordPress website** on a custom domain (`sahil07.shop`) over port 80.
 
 ## 🚀 Objective
 
@@ -11,7 +11,7 @@ This repository documents my step-by-step process of manually compiling and conf
 ✅ Compile **PHP 8.3.7** from source  
 ✅ Install **MySQL 8.4.0** using binary tarball  
 ✅ Download and configure **WordPress**  
-✅ Serve WordPress on **port 80** mapped to `nasarul.in` (via `/etc/hosts`)  
+✅ Serve WordPress on **port 80** mapped to `sahil07.shop` (via `/etc/hosts`)  
 ✅ Complete all steps **without using OS repositories like `apt` or `yum`**
 
 ---
@@ -211,10 +211,10 @@ Add this line:
 127.0.0.1    nasarul.in
 ```
 
-- **Test**: Navigate to `http://nasarul.in` in your browser to access WordPress and complete the setup via the web interface.
+- **Test**: Navigate to `http://sahil07.shop` in your browser to access WordPress and complete the setup via the web interface.
 
 ## Conclusion
-You’ve now compiled and configured Apache, PHP, and MySQL from source, and set up WordPress! This stack is ready for local development or testing. Explore `http://localhost/info.php` for PHP details and `http://nasarul.in` for WordPress.
+You’ve now compiled and configured Apache, PHP, and MySQL from source, and set up WordPress! This stack is ready for local development or testing. Explore `http://localhost/info.php` for PHP details and `http://sahil07.shop` for WordPress.
 
 ## Notes
 - **Security**: The passwords (`Password@123`, `wp_pass`) are examples. Use strong, unique passwords in production.
@@ -222,10 +222,11 @@ You’ve now compiled and configured Apache, PHP, and MySQL from source, and set
 - **Portfolio**: This project showcases skills in server setup, source compilation, and web stack integration.
 
 ---
+Live WordPress site available at http://sahil07.shop (expires on 05/07/25)
 
 ## 🙋‍♂️ About Me
 
-I'm **Nasarul Naseer**, a passionate server admin & cybersecurity learner.  
-🔗 [LinkedIn](https://linkedin.com/in/nasarulnaseer) | 🌐 [Portfolio](https://github.com/nasarul10)
+I'm **sahil TK**, a passionate DevOps & Cloud Engineer.  
+🔗 [LinkedIn](https://linkedin.com/in/sahil-tk-8733b5282/) | 🌐 [Portfolio](https://github.com/sahil-007/sparksupport-machine-test)
 
 Give this repo a ⭐ if you found it useful!
